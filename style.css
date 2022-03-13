@@ -1,0 +1,92 @@
+body {
+  background: #fff;
+  font-family: Roboto;
+  padding: 15px 5px;
+}
+
+header {
+  display: flex;
+  background: rgb(240, 240, 240);
+  align-items: center;
+  flex-direction: column;
+  padding-top: 15px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+#title {
+  margin-bottom: 20px;
+}
+#title-caption {
+  padding: 0px
+}
+
+#main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgb(240, 240, 240);
+  padding: 10px;
+}
+
+figure {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  padding: 10px;
+  align-items: center;
+  width:98%;
+
+}
+
+figcaption {
+  width: 600px;
+}
+
+
+h1 {
+  padding: 0;
+  margin: 0px;
+}
+
+p {
+  line-height: 30px;
+  word-spacing: 1px;
+  margin: 0px;
+}
+
+img {
+  padding: 10px;
+  width: 664;
+  height: 786px;
+}
+
+#tribute-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  width: 800px;
+}
+
+#bold {
+  font-weight: bold;
+}
+blockquote {
+  font-style: italic;
+}
+
+cite {
+  font-style: normal;
+}
+
+ul {
+  margin: 0 100px;
+}
+
+li {
+  margin: 10px;
+}
